@@ -1,4 +1,6 @@
 ### Hi there 👋
 
-I'm an Italian computer science student, which is currently studying in Amsterdam at the Vrije Universiteit. 
+I'm currently studying computer science in Amsterdam! 
+
+
 
