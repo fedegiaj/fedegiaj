@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-I'm currently studying computer science in Amsterdam! 
-
-
+CS student in the Netherlands!
